@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Up</string>
+    <string name="api_key">ur4uyxvvfxvn</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiaWx5YXN0YWJlbm5oYXNpZCJ9.K5BVnb1DqCF12d4npGSCK-mtR5nK620Qb24tDIhBdn4</string>
+</resources>
